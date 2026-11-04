@@ -1,0 +1,23 @@
+{
+  "attemptedAt": "2026-11-04T03:42:54Z",
+  "date": "2026-11-04",
+  "etag": null,
+  "id": "charlotte-311",
+  "lastModified": null,
+  "lastSuccessAt": "2026-11-04T03:42:54Z",
+  "lastSuccessDate": "2026-11-04",
+  "lastSuccessRecordCount": 12621,
+  "lastSuccessSha256": "ff73efc23767a8057490a06f13b190b11cc393c59007e502cf22621a65c9bdce",
+  "notes": [
+    "first snapshot for this source — there is nothing to compare against yet"
+  ],
+  "pages": 3,
+  "reason": null,
+  "recordCount": 12621,
+  "result": "baseline",
+  "sourceUrl": "https://data.charlottenc.gov/datasets/service-requests-311",
+  "title": "Charlotte 311 service requests",
+  "windowDays": 14,
+  "windowFrom": "2026-10-21",
+  "windowTo": "2026-11-04"
+}
