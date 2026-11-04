@@ -1,0 +1,23 @@
+flowchart TD
+  start(["cron · dispatch · push"]) --> test["node tests/run.js<br/>offline, before any fetch"]
+  test -->|fail| stop1["stop: nothing is fetched"]
+  test -->|pass| attach["attach data branch<br/>(git worktree _data)"]
+  attach --> loop{"for each adapter<br/>independently"}
+  loop --> fetch["fetchSnapshot()<br/>one request, backoff, Retry-After"]
+  fetch -->|error| err["status: error<br/>reason + last good time"]
+  fetch -->|304| same["status: unchanged"]
+  fetch -->|ok| norm["normalize()<br/>drop/coarsen personal fields"]
+  norm --> gates{"sanity gates<br/>empty? count swing? mass change?"}
+  gates -->|fail| quar["status: quarantined<br/>keep previous snapshot<br/>emit no diff"]
+  gates -->|pass| hash{"bytes changed?"}
+  hash -->|no| same
+  hash -->|yes| diff["diff · partition aged-out<br/>write diff + latest + status"]
+  err --> next
+  same --> next
+  quar --> next
+  diff --> next
+  next{"more adapters?"} -->|yes| loop
+  next -->|no| size["check-size.js<br/>150 MB warn / 500 MB fail"]
+  size --> commit["commit + push data branch"]
+  commit --> render["render dist/<br/>HTML · feeds · JSON"]
+  render --> deploy["upload artifact · deploy Pages"]

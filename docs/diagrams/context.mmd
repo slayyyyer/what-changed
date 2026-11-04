@@ -1,0 +1,15 @@
+flowchart LR
+  publisher1["City of Charlotte<br/>ArcGIS MapServer"]
+  publisher2["Federal Register<br/>JSON API"]
+  action["GitHub Actions<br/>daily, off the hour"]
+  data[("data branch<br/>snapshots · diffs · status")]
+  pages["GitHub Pages<br/>static site"]
+  reader(["Reader<br/>web · Atom"])
+
+  publisher1 -->|"1 request/day"| action
+  publisher2 -->|"1 request/day"| action
+  action -->|"normalize, gate, diff"| data
+  data -->|"render"| pages
+  pages --> reader
+  reader -.->|"click through to the record"| publisher1
+  reader -.->|"click through to the record"| publisher2

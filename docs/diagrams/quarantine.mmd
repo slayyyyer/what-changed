@@ -1,0 +1,21 @@
+flowchart TD
+  snap["new snapshot, normalized"] --> empty{"zero records?"}
+  empty -->|yes| q["QUARANTINE"]
+  empty -->|no| floor{"below the adapter's<br/>record floor?"}
+  floor -->|yes| q
+  floor -->|no| fields{"required field<br/>empty anywhere?"}
+  fields -->|yes| q
+  fields -->|no| keys{"keys malformed<br/>or duplicated?"}
+  keys -->|yes| q
+  keys -->|no| count{"record count outside<br/>0.55x – 1.9x of previous?"}
+  count -->|yes| q
+  count -->|no| mass{"more than 35% of records<br/>changed at once?"}
+  mass -->|yes| q
+  mass -->|no| drift{"more than 6 fields of<br/>schema drift?"}
+  drift -->|yes| q
+  drift -->|no| accept["ACCEPT<br/>write latest + diff + status"]
+  drift -.->|"1–6 fields"| note["accept, but publish<br/>a visible schema notice"]
+
+  q --> keep["keep previous latest.ndjson<br/>status: quarantined + reason + rejected count<br/>no diff file"]
+  keep --> site["site renders<br/>‘no snapshot today’<br/>never ‘0 changes’"]
+  accept --> site2["site renders the diff"]

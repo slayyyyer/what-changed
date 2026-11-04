@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # Offline by design: the diff engine, gates, adapters (against real trimmed
+      # payloads) and the pipeline's failure modes are tested before any fetch.
+      - name: Tests
+        run: node tests/run.js
+
+      # A clean checkout with no data branch must still render a complete,
+      # honest site: every source "never run", no diff, no claims.
+      - name: Render smoke test (no data, no network)
+        run: node build.js --offline --data-dir .cache/ci-data --out .cache/ci-dist
+
+      - name: The empty build must not claim zero changes
+        run: |
+          grep -q "No snapshot\|Waiting for the first snapshot" .cache/ci-dist/index.html
+          ! grep -qi "nothing changed" .cache/ci-dist/index.html
+
+      - name: No personal fields in the rendered site
+        run: |
+          ! grep -riq "full_address\|latitude\|block_no\|globalid" .cache/ci-dist

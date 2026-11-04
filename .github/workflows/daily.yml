@@ -1,0 +1,79 @@
+name: Daily snapshot
+
+on:
+  schedule:
+    # Deliberately off the hour: 13:17 UTC is 09:17 ET in summer, 08:17 ET in
+    # winter. The site labels everything in Eastern time and shows UTC too.
+    - cron: '17 13 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write # the data branch
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Tests before any fetch
+        run: node tests/run.js
+
+      - name: Attach the data branch
+        run: |
+          git config user.name "what-changed"
+          git config user.email "slayyyyer@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin data > /dev/null 2>&1; then
+            git worktree add --checkout _data origin/data -B data
+          else
+            echo "data branch not found; creating it"
+            git worktree add --detach _data
+            git -C _data checkout --orphan data
+            git -C _data rm -rf . > /dev/null 2>&1 || true
+          fi
+
+      - name: Snapshot, gate, diff, render
+        run: node build.js --data-dir _data --base-url https://slayyyyer.github.io/what-changed/
+
+      - name: Storage alarm
+        run: node scripts/check-size.js _data
+
+      - name: Commit the data branch
+        run: |
+          git -C _data add -A
+          if git -C _data diff --cached --quiet; then
+            echo "no data changes this run"
+          else
+            git -C _data commit -m "data: snapshot $(date -u +%Y-%m-%d)"
+            git -C _data push origin data
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

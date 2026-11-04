@@ -1,0 +1,53 @@
+{
+  "description": "Documents published on or after 10/28/2026",
+  "count": 508,
+  "total_pages": 1,
+  "results": [
+    {
+      "document_number": "C1-2026-20310",
+      "title": "Potential Designation of Passage of an Accredited Investor Exam To Be Developed by FINRA as Qualifying Natural Persons for Accredited Investor Status",
+      "type": "Notice",
+      "publication_date": "2026-11-03",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "correction_of": "https://www.federalregister.gov/api/v1/documents/2026-20310",
+      "effective_on": null,
+      "comments_close_on": null,
+      "action": null,
+      "page_length": 1,
+      "html_url": "https://www.federalregister.gov/documents/2026/11/03/C1-2026-20310/potential-designation-of-passage-of-an-accredited-investor-exam-to-be-developed-by-finra-as"
+    },
+    {
+      "document_number": "2026-22443",
+      "title": "Streamlining Contested Adjudications in Licensing Proceedings",
+      "type": "Rule",
+      "publication_date": "2026-11-03",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "correction_of": null,
+      "effective_on": "2026-12-03",
+      "comments_close_on": null,
+      "action": "Final rule.",
+      "page_length": 12,
+      "html_url": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings"
+    }
+  ]
+}

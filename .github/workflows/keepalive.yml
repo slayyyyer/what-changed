@@ -1,0 +1,45 @@
+name: Keepalive
+
+# GitHub disables scheduled workflows in public repositories after 60 days
+# without repository activity. The daily job already commits status to the data
+# branch every day; this is the second line of defence, and it records its own
+# reasoning in docs/adr/0004-keepalive.md.
+
+on:
+  schedule:
+    - cron: '41 6 1 * *' # 06:41 UTC on the 1st of each month
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Touch the data branch if it has been quiet
+        run: |
+          if ! git ls-remote --exit-code --heads origin data > /dev/null 2>&1; then
+            echo "no data branch yet; the daily job will create it"
+            exit 0
+          fi
+
+          git fetch --depth=1 origin data
+          last=$(git log -1 --format=%ct FETCH_HEAD)
+          age=$(( ( $(date -u +%s) - last ) / 86400 ))
+          echo "data branch last commit was ${age} day(s) ago"
+
+          if [ "$age" -lt 45 ]; then
+            echo "recent activity; nothing to do"
+            exit 0
+          fi
+
+          git config user.name "what-changed"
+          git config user.email "slayyyyer@users.noreply.github.com"
+          git worktree add _data FETCH_HEAD
+          git -C _data commit --allow-empty -m "chore: keepalive $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git -C _data push origin HEAD:data

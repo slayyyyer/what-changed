@@ -1,0 +1,15 @@
+# Build output
+dist/
+
+# The `data` branch is checked out here by the pipeline (git worktree).
+_data/
+
+# Local runtime / tooling, never committed
+.tools/
+node_modules/
+.cache/
+*.log
+
+# OS noise
+.DS_Store
+Thumbs.db

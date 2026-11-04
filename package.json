@@ -1,0 +1,20 @@
+{
+  "name": "what-changed",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A daily diff of public data. Snapshots public datasets every day and publishes only what changed.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node tests/run.js",
+    "build": "node build.js",
+    "build:offline": "node build.js --offline",
+    "serve": "node serve.js",
+    "og": "node scripts/make-og.js",
+    "size": "node scripts/check-size.js _data"
+  },
+  "dependencies": {}
+}
