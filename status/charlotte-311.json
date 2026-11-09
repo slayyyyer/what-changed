@@ -1,33 +1,33 @@
 {
-  "attemptedAt": "2026-11-08T18:23:35Z",
-  "date": "2026-11-08",
+  "attemptedAt": "2026-11-09T23:00:27Z",
+  "date": "2026-11-09",
   "diffStats": {
     "added": 0,
     "changed": 0,
-    "expired": 370,
+    "expired": 579,
     "fieldChanges": 0,
-    "recordsAfter": 13453,
-    "recordsBefore": 13823,
+    "recordsAfter": 12874,
+    "recordsBefore": 13453,
     "removed": 0,
-    "unchanged": 13453
+    "unchanged": 12874
   },
   "etag": null,
   "id": "charlotte-311",
   "lastModified": null,
-  "lastSuccessAt": "2026-11-08T18:23:35Z",
-  "lastSuccessDate": "2026-11-08",
-  "lastSuccessRecordCount": 13453,
-  "lastSuccessSha256": "009a41d67d8672d535b717ed42aeb4da05ab1da82ac90b22f0c8dff6b78fab47",
+  "lastSuccessAt": "2026-11-09T23:00:27Z",
+  "lastSuccessDate": "2026-11-09",
+  "lastSuccessRecordCount": 12874,
+  "lastSuccessSha256": "bfc23f9fcd7aa50cd423f40f65af31c91ad951c4af4ff89734d5aae6c323e732",
   "notes": [
     "the publisher does not support conditional requests for this layer, so the full window is downloaded each run"
   ],
   "pages": 3,
   "reason": null,
-  "recordCount": 13453,
+  "recordCount": 12874,
   "result": "ok",
   "sourceUrl": "https://data.charlottenc.gov/datasets/service-requests-311",
   "title": "Charlotte 311 service requests",
   "windowDays": 14,
-  "windowFrom": "2026-10-25",
-  "windowTo": "2026-11-08"
+  "windowFrom": "2026-10-26",
+  "windowTo": "2026-11-09"
 }
