@@ -1,31 +1,21 @@
 {
-  "attemptedAt": "2026-11-14T18:45:56Z",
-  "date": "2026-11-14",
-  "diffStats": {
-    "added": 104,
-    "changed": 0,
-    "expired": 82,
-    "fieldChanges": 0,
-    "recordsAfter": 1523,
-    "recordsBefore": 1501,
-    "removed": 0,
-    "unchanged": 1419
-  },
+  "attemptedAt": "2026-11-15T19:23:38Z",
+  "date": "2026-11-15",
   "etag": null,
   "id": "federal-register",
   "lastModified": null,
-  "lastSuccessAt": "2026-11-14T18:45:56Z",
-  "lastSuccessDate": "2026-11-14",
+  "lastSuccessAt": "2026-11-15T19:23:38Z",
+  "lastSuccessDate": "2026-11-15",
   "lastSuccessRecordCount": 1523,
   "lastSuccessSha256": "110a37c6a6504a7549161ad823f9af8d6e7f85557fdbffe7205db613fa4425bc",
   "notes": [],
   "pages": 2,
   "reason": null,
   "recordCount": 1523,
-  "result": "ok",
+  "result": "unchanged",
   "sourceUrl": "https://www.federalregister.gov/",
   "title": "Federal Register",
   "windowDays": 21,
-  "windowFrom": "2026-10-24",
-  "windowTo": "2026-11-14"
+  "windowFrom": "2026-10-25",
+  "windowTo": "2026-11-15"
 }
