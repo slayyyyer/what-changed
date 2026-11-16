@@ -1,11 +1,11 @@
 {
-  "attemptedAt": "2026-11-15T19:23:38Z",
-  "date": "2026-11-15",
+  "attemptedAt": "2026-11-16T22:55:27Z",
+  "date": "2026-11-16",
   "etag": null,
   "id": "federal-register",
   "lastModified": null,
-  "lastSuccessAt": "2026-11-15T19:23:38Z",
-  "lastSuccessDate": "2026-11-15",
+  "lastSuccessAt": "2026-11-16T22:55:27Z",
+  "lastSuccessDate": "2026-11-16",
   "lastSuccessRecordCount": 1523,
   "lastSuccessSha256": "110a37c6a6504a7549161ad823f9af8d6e7f85557fdbffe7205db613fa4425bc",
   "notes": [],
@@ -16,6 +16,6 @@
   "sourceUrl": "https://www.federalregister.gov/",
   "title": "Federal Register",
   "windowDays": 21,
-  "windowFrom": "2026-10-25",
-  "windowTo": "2026-11-15"
+  "windowFrom": "2026-10-26",
+  "windowTo": "2026-11-16"
 }
