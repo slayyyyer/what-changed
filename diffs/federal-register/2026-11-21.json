@@ -1,0 +1,1813 @@
+{
+  "added": [
+    {
+      "fields": {
+        "action": "Notice of limitation on claims for judicial review.",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23733",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Notice of Final Federal Agency Actions on Proposed Transportation Project in California",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23733/notice-of-final-federal-agency-actions-on-proposed-transportation-project-in-california"
+      },
+      "key": "fr-2026-23733"
+    },
+    {
+      "fields": {
+        "action": "Notice of receipt of application; proposed incidental harassment authorization; draft environmental assessment; request for comments.",
+        "agency": "Interior Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2026-12-23",
+        "documentNumber": "2026-23734",
+        "pages": "16",
+        "publicationDate": "2026-11-23",
+        "title": "Marine Mammals; Incidental Take During Specified Activities; Proposed Incidental Harassment Authorization for Southcentral Alaska Stock of Northern Sea Otters at the ARRC Seward Alaska Marine Terminal Freight Dock in Seward, Alaska",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23734/marine-mammals-incidental-take-during-specified-activities-proposed-incidental-harassment"
+      },
+      "key": "fr-2026-23734"
+    },
+    {
+      "fields": {
+        "action": "Publication of list of rules scheduled for review.",
+        "agency": "Commodity Futures Trading Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23735",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "List of Rules To Be Reviewed Pursuant to the Regulatory Flexibility Act",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23735/list-of-rules-to-be-reviewed-pursuant-to-the-regulatory-flexibility-act"
+      },
+      "key": "fr-2026-23735"
+    },
+    {
+      "fields": {
+        "action": "60-Day notice and request for comments; reinstatement without change of a currently approved collection, 1601-0035.",
+        "agency": "Homeland Security Department",
+        "agencyCount": "1",
+        "commentsCloseOn": "2027-01-19",
+        "documentNumber": "2026-23736",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities: DHS Civil Rights and Civil Liberties Complaint and Privacy Waiver Form, 1601-0035",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23736/agency-information-collection-activities-dhs-civil-rights-and-civil-liberties-complaint-and-privacy"
+      },
+      "key": "fr-2026-23736"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Postal Service",
+        "agencyCount": "1",
+        "documentNumber": "2026-23737",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Product Change-Priority Mail and USPS Ground Advantage Negotiated Service Agreements; Priority Mail, USPS Ground Advantage, and Parcel Select Negotiated Service Agreements",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23737/product-change-priority-mail-and-usps-ground-advantage-negotiated-service-agreements-priority-mail"
+      },
+      "key": "fr-2026-23737"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "National Foundation on the Arts and the Humanities",
+        "agencyCount": "2",
+        "documentNumber": "2026-23738",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "60-Day Notice for the “Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery”",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23738/60-day-notice-for-the-generic-clearance-for-the-collection-of-qualitative-feedback-on-agency-service"
+      },
+      "key": "fr-2026-23738"
+    },
+    {
+      "fields": {
+        "agency": "Export-Import Bank",
+        "agencyCount": "1",
+        "documentNumber": "2026-23739",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Notice of Open Meeting for the 2026-2027 EXIM Advisory Committee",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23739/notice-of-open-meeting-for-the-2026-2027-exim-advisory-committee"
+      },
+      "key": "fr-2026-23739"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Health and Human Services Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2026-12-23",
+        "documentNumber": "2026-23740",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Extralabel Drug Use in Animals",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23740/agency-information-collection-activities-submission-for-office-of-management-and-budget-review"
+      },
+      "key": "fr-2026-23740"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Health and Human Services Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23741",
+        "effectiveOn": "2027-10-01",
+        "pages": "4",
+        "publicationDate": "2026-11-23",
+        "title": "Federal Financial Participation in State Assistance Expenditures; Federal Matching Shares for Medicaid, the Children's Health Insurance Program, and Aid to Needy Aged, Blind, or Disabled Persons for October 1, 2027, Through September 30, 2028",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23741/federal-financial-participation-in-state-assistance-expenditures-federal-matching-shares-for"
+      },
+      "key": "fr-2026-23741"
+    },
+    {
+      "fields": {
+        "action": "\"(i) where the Corporation will hold accounts for the purpose of delivering\" cash and Eligible Securities to and \"receiving\" cash and Eligible Securities from \"Participants to settle Cash Treasury Transactions and Clear to Deliver Transactions\" and \"(ii) where the Corporation and Participants may hold accounts for the purpose of delivering cash and Eligible Securities to and receiving cash and Eligible Securities from one another to settle Clear to Hold Transactions and to hold Eligible Securities as collateral for such transactions.\" These changes maintain distinct settlement processes for Cash Treasury Transactions and Clear to Deliver Transactions on the one hand and Clear to Hold Transactions on the other hand, while clarifying that for purposes of settling Cash Treasury Transactions and Clear to Deliver Transactions, the Securities Settlement Bank designated by CMESC will hold CMESC's accounts and Participants are not required to maintain settlement accounts at the same designated Securities Settlement Bank, while for purposes of settling Clear to Hold Transactions, the Securities Settlement Bank designated by CMESC will hold both CMESC's and Participants' accounts; and",
+        "agency": "Securities and Exchange Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23742",
+        "pages": "13",
+        "publicationDate": "2026-11-23",
+        "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Operational Rule Changes",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23742/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-and-immediate"
+      },
+      "key": "fr-2026-23742"
+    },
+    {
+      "fields": {
+        "agency": "Securities and Exchange Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23743",
+        "pages": "7",
+        "publicationDate": "2026-11-23",
+        "title": "Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Partial Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Modernize the Direct Registration System",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23743/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-partial-amendment-no"
+      },
+      "key": "fr-2026-23743"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Veterans Affairs Department",
+        "agencyCount": "1",
+        "documentNumber": "2026-23744",
+        "effectiveOn": "2027-01-01",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Adjustment of Threshold Amount Specified in 38 U.S.C. 8104(a)(3)(A) Pursuant to GSA Cost Indexes Under 40 U.S.C. 3307(h)",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23744/adjustment-of-threshold-amount-specified-in-38-usc-8104a3a-pursuant-to-gsa-cost-indexes-under-40-usc"
+      },
+      "key": "fr-2026-23744"
+    },
+    {
+      "fields": {
+        "agency": "Securities and Exchange Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23745",
+        "pages": "5",
+        "publicationDate": "2026-11-23",
+        "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend FINRA Rules 6380A and 6380B (Transaction Reporting) To Extend the Limited, Temporary Exception From Reporting Specified Overnight Transactions Prior to 8:00 a.m. Eastern Time Until December 31, 2027",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23745/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-and"
+      },
+      "key": "fr-2026-23745"
+    },
+    {
+      "fields": {
+        "agency": "Securities and Exchange Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23746",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Self-Regulatory Organizations; Cboe Clear U.S., LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Fee Schedule To Reduce the Clearing Fee for Securities Contracts",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23746/self-regulatory-organizations-cboe-clear-us-llc-notice-of-filing-and-immediate-effectiveness-of"
+      },
+      "key": "fr-2026-23746"
+    },
+    {
+      "fields": {
+        "action": "Correction notice.",
+        "agency": "Treasury Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23747",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Quarterly Publication of Individuals Who Have Chosen To Expatriate; Correction",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23747/quarterly-publication-of-individuals-who-have-chosen-to-expatriate-correction"
+      },
+      "key": "fr-2026-23747"
+    },
+    {
+      "fields": {
+        "agency": "Securities and Exchange Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23748",
+        "pages": "29",
+        "publicationDate": "2026-11-23",
+        "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change"
+      },
+      "key": "fr-2026-23748"
+    },
+    {
+      "fields": {
+        "action": "Notice of proposed rulemaking (NPRM).",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-01-07",
+        "documentNumber": "2026-23749",
+        "pages": "3",
+        "publicationDate": "2026-11-23",
+        "title": "Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes",
+        "type": "Proposed Rule",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23749/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes"
+      },
+      "key": "fr-2026-23749"
+    },
+    {
+      "fields": {
+        "action": "Notice; establishment of a public docket; request for comments.",
+        "agency": "Health and Human Services Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23750",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Tobacco Products Scientific Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23750/tobacco-products-scientific-advisory-committee-notice-of-meeting-establishment-of-a-public-docket"
+      },
+      "key": "fr-2026-23750"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "International Trade Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23751",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Plastic Balloons From China; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23751/plastic-balloons-from-china-institution-of-antidumping-and-countervailing-duty-investigations-and"
+      },
+      "key": "fr-2026-23751"
+    },
+    {
+      "fields": {
+        "action": "Notice of proposed rulemaking (NPRM).",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-01-07",
+        "documentNumber": "2026-23752",
+        "pages": "4",
+        "publicationDate": "2026-11-23",
+        "title": "Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes",
+        "type": "Proposed Rule",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23752/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes"
+      },
+      "key": "fr-2026-23752"
+    },
+    {
+      "fields": {
+        "action": "Final guidance; issuance.",
+        "agency": "Nuclear Regulatory Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23753",
+        "effectiveOn": "2026-11-23",
+        "pages": "3",
+        "publicationDate": "2026-11-23",
+        "title": "Interim Staff Guidance: NRC Application Pathway for Reactor Designs Previously Authorized by U.S. Department of Energy or Department of War",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23753/interim-staff-guidance-nrc-application-pathway-for-reactor-designs-previously-authorized-by-us"
+      },
+      "key": "fr-2026-23753"
+    },
+    {
+      "fields": {
+        "action": "Notice; issuance.",
+        "agency": "Nuclear Regulatory Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23754",
+        "pages": "4",
+        "publicationDate": "2026-11-23",
+        "title": "Radiant Industries, Inc.; Special Nuclear Materials License Application for a Fuel Packing Facility; Environmental Assessment and Finding of No Significant Impact",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23754/radiant-industries-inc-special-nuclear-materials-license-application-for-a-fuel-packing-facility"
+      },
+      "key": "fr-2026-23754"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Veterans Affairs Department",
+        "agencyCount": "1",
+        "commentsCloseOn": "2027-01-22",
+        "documentNumber": "2026-23755",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activity: Program of Comprehensive Assistance for Family Caregivers (PCAFC)",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23755/agency-information-collection-activity-program-of-comprehensive-assistance-for-family-caregivers"
+      },
+      "key": "fr-2026-23755"
+    },
+    {
+      "fields": {
+        "action": "Notice of information collection; request for comments.",
+        "agency": "Interior Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-01-22",
+        "documentNumber": "2026-23756",
+        "pages": "4",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities; Individual Landholder's and Farm Operator's Certification and Reporting Forms for Acreage Limitation; Certification Summary Form, Reporting Summary Form for Acreage Limitation; Forms to Determine Compliance by Certain Landholders; 43 CFR Part 426 and 43 CFR Part 428",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23756/agency-information-collection-activities-individual-landholders-and-farm-operators-certification-and"
+      },
+      "key": "fr-2026-23756"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Veterans Affairs Department",
+        "agencyCount": "1",
+        "commentsCloseOn": "2027-01-22",
+        "documentNumber": "2026-23757",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activity: VA-FSC Vendor File Request",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23757/agency-information-collection-activity-va-fsc-vendor-file-request"
+      },
+      "key": "fr-2026-23757"
+    },
+    {
+      "fields": {
+        "action": "Notice of information collection, request for comment.",
+        "agency": "Commerce Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-01-22",
+        "documentNumber": "2026-23758",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Additional Protocol Report Forms",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23758/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      },
+      "key": "fr-2026-23758"
+    },
+    {
+      "fields": {
+        "action": "60 Day notice; request for comments.",
+        "agency": "Millennium Challenge Corporation",
+        "agencyCount": "1",
+        "commentsCloseOn": "2027-01-22",
+        "documentNumber": "2026-23759",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Proposed Agency Information Collection Request; Comment Request; Reinstatement With Change of a Previously Approved Collection: Restricted Data Use Application",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23759/proposed-agency-information-collection-request-comment-request-reinstatement-with-change-of-a"
+      },
+      "key": "fr-2026-23759"
+    },
+    {
+      "fields": {
+        "action": "30-Day notice and request for comments.",
+        "agency": "Merit Systems Protection Board",
+        "agencyCount": "1",
+        "commentsCloseOn": "2026-12-23",
+        "documentNumber": "2026-23760",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities: Reinstatement With Change of a Previously Approved Information Collection; Comment Request",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23760/agency-information-collection-activities-reinstatement-with-change-of-a-previously-approved"
+      },
+      "key": "fr-2026-23760"
+    },
+    {
+      "fields": {
+        "action": "Notice of renewal of the Charter of the Advisory Committee on Reactor Safeguards (ACRS).",
+        "agency": "Nuclear Regulatory Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23761",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Advisory Committee on Reactor Safeguards Charter Renewal",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23761/advisory-committee-on-reactor-safeguards-charter-renewal"
+      },
+      "key": "fr-2026-23761"
+    },
+    {
+      "fields": {
+        "action": "Notice of proposed rulemaking.",
+        "agency": "Occupational Safety and Health Review Commission",
+        "agencyCount": "1",
+        "commentsCloseOn": "2026-12-23",
+        "documentNumber": "2026-23762",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Regulations Implementing the Privacy Act",
+        "type": "Proposed Rule",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23762/regulations-implementing-the-privacy-act"
+      },
+      "key": "fr-2026-23762"
+    },
+    {
+      "fields": {
+        "action": "Notice of intent to designate supplemental type certificate as abandoned; request for comments.",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-05-24",
+        "documentNumber": "2026-23763",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Notice of Intent To Designate as Abandoned Heli-Support, Inc. Supplemental Type Certificates",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23763/notice-of-intent-to-designate-as-abandoned-heli-support-inc-supplemental-type-certificates"
+      },
+      "key": "fr-2026-23763"
+    },
+    {
+      "fields": {
+        "action": "Notice and request for comments.",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2026-12-23",
+        "documentNumber": "2026-23764",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities: Requests for Comments; Clearance of Renewed Approval of Information Collection: Domestic and International Flight Plans",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23764/agency-information-collection-activities-requests-for-comments-clearance-of-renewed-approval-of"
+      },
+      "key": "fr-2026-23764"
+    },
+    {
+      "fields": {
+        "agency": "Energy Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23765",
+        "pages": "3",
+        "publicationDate": "2026-11-23",
+        "title": "Combined Notice of Filings #1",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23765/combined-notice-of-filings-1"
+      },
+      "key": "fr-2026-23765"
+    },
+    {
+      "fields": {
+        "agency": "Energy Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23766",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Combined Notice of Filings",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23766/combined-notice-of-filings"
+      },
+      "key": "fr-2026-23766"
+    },
+    {
+      "fields": {
+        "agency": "Energy Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23767",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Combined Notice of Filings #2",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23767/combined-notice-of-filings-2"
+      },
+      "key": "fr-2026-23767"
+    },
+    {
+      "fields": {
+        "action": "Notice of availability; extension of comment period.",
+        "agency": "Agriculture Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2026-12-28",
+        "documentNumber": "2026-23768",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Chronic Wasting Disease Herd Certification Program Standards",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23768/chronic-wasting-disease-herd-certification-program-standards"
+      },
+      "key": "fr-2026-23768"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23769",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Request for Comments on the Renewal of a Previously Approved Information Collection: Application To Participate; Voluntary Tanker Agreement",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23769/request-for-comments-on-the-renewal-of-a-previously-approved-information-collection-application-to"
+      },
+      "key": "fr-2026-23769"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23770",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Request for Comments on the Renewal of a Previously Approved Information Collection: Information To Determine Seamen's Reemployment Rights-National Emergency",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23770/request-for-comments-on-the-renewal-of-a-previously-approved-information-collection-information-to"
+      },
+      "key": "fr-2026-23770"
+    },
+    {
+      "fields": {
+        "action": "Notification of receipt of application and proposed authorization; availability of draft environmental assessment; request for comments.",
+        "agency": "Interior Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2026-12-23",
+        "documentNumber": "2026-23771",
+        "pages": "15",
+        "publicationDate": "2026-11-23",
+        "title": "Marine Mammals; Incidental Take During Specified Activities; Proposed Incidental Harassment Authorization for Southwest Alaska Stock of Northern Sea Otters in Kodiak, Alaska",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23771/marine-mammals-incidental-take-during-specified-activities-proposed-incidental-harassment"
+      },
+      "key": "fr-2026-23771"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Treasury Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23772",
+        "pages": "3",
+        "publicationDate": "2026-11-23",
+        "title": "Notice of OFAC Sanctions Action",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23772/notice-of-ofac-sanctions-action"
+      },
+      "key": "fr-2026-23772"
+    },
+    {
+      "fields": {
+        "action": "Notice of Completion of Panel Review.",
+        "agency": "Commerce Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23773",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "North American Free Trade Agreement (NAFTA), Article 1904; Binational Panel Review: Notice of Completion of Panel Review",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23773/north-american-free-trade-agreement-nafta-article-1904-binational-panel-review-notice-of-completion"
+      },
+      "key": "fr-2026-23773"
+    },
+    {
+      "fields": {
+        "action": "Notice of request for extension of currently approved information collection.",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-01-22",
+        "documentNumber": "2026-23774",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities: Notice of Request for an Extension of a Currently Approved Information Collection",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23774/agency-information-collection-activities-notice-of-request-for-an-extension-of-a-currently-approved"
+      },
+      "key": "fr-2026-23774"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "State Department",
+        "agencyCount": "1",
+        "documentNumber": "2026-23775",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Defense Trade Advisory Group; Notice of Open Meeting",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23775/defense-trade-advisory-group-notice-of-open-meeting"
+      },
+      "key": "fr-2026-23775"
+    },
+    {
+      "fields": {
+        "action": "Notice of availability; receipt of permit applications and request for comments.",
+        "agency": "Interior Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2026-12-23",
+        "documentNumber": "2026-23776",
+        "pages": "3",
+        "publicationDate": "2026-11-23",
+        "title": "Endangered Species; Recovery Permit Applications",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23776/endangered-species-recovery-permit-applications"
+      },
+      "key": "fr-2026-23776"
+    },
+    {
+      "fields": {
+        "action": "Final rule.",
+        "agency": "Labor Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23777",
+        "effectiveOn": "2027-01-22",
+        "pages": "97",
+        "publicationDate": "2026-11-23",
+        "title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+        "type": "Rule",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical"
+      },
+      "key": "fr-2026-23777"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Small Business Administration",
+        "agencyCount": "1",
+        "documentNumber": "2026-23778",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Administrative Disaster Declaration of a Rural Area for the State of New Hampshire",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23778/administrative-disaster-declaration-of-a-rural-area-for-the-state-of-new-hampshire"
+      },
+      "key": "fr-2026-23778"
+    },
+    {
+      "fields": {
+        "action": "Notice of a new system of records.",
+        "agency": "National Labor Relations Board",
+        "agencyCount": "1",
+        "commentsCloseOn": "2026-12-23",
+        "documentNumber": "2026-23779",
+        "effectiveOn": "2026-12-23",
+        "pages": "3",
+        "publicationDate": "2026-11-23",
+        "title": "Privacy Act of 1974; System of Records",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23779/privacy-act-of-1974-system-of-records"
+      },
+      "key": "fr-2026-23779"
+    },
+    {
+      "fields": {
+        "action": "Rescindment of systems of records notices; notice of modified systems of records.",
+        "agency": "National Labor Relations Board",
+        "agencyCount": "1",
+        "commentsCloseOn": "2026-12-23",
+        "documentNumber": "2026-23780",
+        "effectiveOn": "2026-12-23",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Privacy Act of 1974; System of Records",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23780/privacy-act-of-1974-system-of-records"
+      },
+      "key": "fr-2026-23780"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Small Business Administration",
+        "agencyCount": "1",
+        "documentNumber": "2026-23781",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Administrative Declaration of a Disaster for the Territory of Guam",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23781/administrative-declaration-of-a-disaster-for-the-territory-of-guam"
+      },
+      "key": "fr-2026-23781"
+    },
+    {
+      "fields": {
+        "action": "Notice of information collection; request for comments.",
+        "agency": "Treasury Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-01-22",
+        "documentNumber": "2026-23782",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities; Comment Request Relating to Late Filing of Certification or Notices",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23782/agency-information-collection-activities-comment-request-relating-to-late-filing-of-certification-or"
+      },
+      "key": "fr-2026-23782"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Postal Regulatory Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23783",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "New Postal Products",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23783/new-postal-products"
+      },
+      "key": "fr-2026-23783"
+    },
+    {
+      "fields": {
+        "action": "Notice and request for comments.",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2026-12-23",
+        "documentNumber": "2026-23784",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities: Requests for Comments; Clearance of a Renewed Approval of Information Collection: Federal Aviation Regulation Part 119-Certification: Air Carriers and Commercial Operators",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23784/agency-information-collection-activities-requests-for-comments-clearance-of-a-renewed-approval-of"
+      },
+      "key": "fr-2026-23784"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Treasury Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23785",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Notice of OFAC Sanctions Action",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23785/notice-of-ofac-sanctions-action"
+      },
+      "key": "fr-2026-23785"
+    },
+    {
+      "fields": {
+        "action": "Final rule; technical amendment.",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23786",
+        "effectiveOn": "2026-11-23",
+        "pages": "9",
+        "publicationDate": "2026-11-23",
+        "title": "Miscellaneous Technical Amendments; Technical Amendment",
+        "type": "Rule",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23786/miscellaneous-technical-amendments-technical-amendment"
+      },
+      "key": "fr-2026-23786"
+    },
+    {
+      "fields": {
+        "action": "Sunshine Act notice; notice of public meeting agenda.",
+        "agency": "Election Assistance Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23787",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Sunshine Act Meetings",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23787/sunshine-act-meetings"
+      },
+      "key": "fr-2026-23787"
+    },
+    {
+      "fields": {
+        "agency": "Health and Human Services Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23788",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23788/agency-information-collection-activities-proposed-collection-comment-request"
+      },
+      "key": "fr-2026-23788"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Environmental Protection Agency",
+        "agencyCount": "1",
+        "documentNumber": "2026-23789",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Certain New Chemicals or Significant New Uses; Statements of Findings-August 2026",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23789/certain-new-chemicals-or-significant-new-uses-statements-of-findings-august-2026"
+      },
+      "key": "fr-2026-23789"
+    },
+    {
+      "fields": {
+        "action": "Notice of USMCA Requests for Panel Review.",
+        "agency": "Commerce Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23790",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "United States-Mexico-Canada Agreement (USMCA), Article 10.12: Binational Panel Review: Notice of Request for Panel Review",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23790/united-states-mexico-canada-agreement-usmca-article-1012-binational-panel-review-notice-of-request"
+      },
+      "key": "fr-2026-23790"
+    },
+    {
+      "fields": {
+        "action": "Notice of availability; request for public comment.",
+        "agency": "Environmental Protection Agency",
+        "agencyCount": "1",
+        "commentsCloseOn": "2026-12-23",
+        "documentNumber": "2026-23791",
+        "pages": "4",
+        "publicationDate": "2026-11-23",
+        "title": "EPA Response to State Initial Designations for the 2024 Revised Secondary Annual Sulfur Dioxide National Ambient Air Quality Standard: Notice of Availability and Public Comment Period",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23791/epa-response-to-state-initial-designations-for-the-2024-revised-secondary-annual-sulfur-dioxide"
+      },
+      "key": "fr-2026-23791"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Securities and Exchange Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23792",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Powerlaw Corp, et al.",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23792/powerlaw-corp-et-al"
+      },
+      "key": "fr-2026-23792"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "State Department",
+        "agencyCount": "1",
+        "documentNumber": "2026-23793",
+        "pages": "6",
+        "publicationDate": "2026-11-23",
+        "title": "Notice of Department of State Sanctions Actions",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23793/notice-of-department-of-state-sanctions-actions"
+      },
+      "key": "fr-2026-23793"
+    },
+    {
+      "fields": {
+        "action": "Notice of USMCA request for panel review.",
+        "agency": "Commerce Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23794",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "United States-Mexico-Canada Agreement (USMCA), Article 10.12: Binational Panel Review: Notice of Request for Panel Review",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23794/united-states-mexico-canada-agreement-usmca-article-1012-binational-panel-review-notice-of-request"
+      },
+      "key": "fr-2026-23794"
+    },
+    {
+      "fields": {
+        "action": "Final rule.",
+        "agency": "Homeland Security Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23795",
+        "effectiveOn": "2026-11-30",
+        "pages": "3",
+        "publicationDate": "2026-11-23",
+        "title": "Extension of Import Restrictions Imposed on Archaeological and Ethnological Material of Egypt",
+        "type": "Rule",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23795/extension-of-import-restrictions-imposed-on-archaeological-and-ethnological-material-of-egypt"
+      },
+      "key": "fr-2026-23795"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Agriculture Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-01-22",
+        "documentNumber": "2026-23796",
+        "pages": "3",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities: Determining Eligibility for Free and Reduced Price Meals and Free Milk in Schools-7 CFR Part 245",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23796/agency-information-collection-activities-determining-eligibility-for-free-and-reduced-price-meals"
+      },
+      "key": "fr-2026-23796"
+    },
+    {
+      "fields": {
+        "action": "Notice; 29th public meeting of the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (PACCARB).",
+        "agency": "Health and Human Services Department",
+        "agencyCount": "1",
+        "documentNumber": "2026-23797",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Meeting of the Microbiome Subcommittee of the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23797/meeting-of-the-microbiome-subcommittee-of-the-presidential-advisory-council-on-combating"
+      },
+      "key": "fr-2026-23797"
+    },
+    {
+      "fields": {
+        "action": "Request for comment.",
+        "agency": "Health and Human Services Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-02-22",
+        "documentNumber": "2026-23798",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Request for Public Comment on the Proposed Short-Term Exposure Limit for Occupational Exposure to Carbon Monoxide",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23798/request-for-public-comment-on-the-proposed-short-term-exposure-limit-for-occupational-exposure-to"
+      },
+      "key": "fr-2026-23798"
+    },
+    {
+      "fields": {
+        "action": "Request for information.",
+        "agency": "Health and Human Services Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-02-22",
+        "documentNumber": "2026-23799",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "National Institute for Occupational Safety and Health (NIOSH) Center for Occupational Robotics Research (CORR); Request for Information",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23799/national-institute-for-occupational-safety-and-health-niosh-center-for-occupational-robotics"
+      },
+      "key": "fr-2026-23799"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Commodity Futures Trading Commission",
+        "agencyCount": "1",
+        "commentsCloseOn": "2026-12-23",
+        "documentNumber": "2026-23800",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities Under OMB Review",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23800/agency-information-collection-activities-under-omb-review"
+      },
+      "key": "fr-2026-23800"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "Commodity Futures Trading Commission",
+        "agencyCount": "1",
+        "commentsCloseOn": "2026-12-23",
+        "documentNumber": "2026-23801",
+        "pages": "3",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities Under OMB Review",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23801/agency-information-collection-activities-under-omb-review"
+      },
+      "key": "fr-2026-23801"
+    },
+    {
+      "fields": {
+        "agency": "Commerce Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23802",
+        "pages": "4",
+        "publicationDate": "2026-11-23",
+        "title": "Certain Cold-Rolled Steel Flat Products From the Republic of Korea: Preliminary Results and Rescission, in Part of Countervailing Duty Administrative Review; 2024",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23802/certain-cold-rolled-steel-flat-products-from-the-republic-of-korea-preliminary-results-and"
+      },
+      "key": "fr-2026-23802"
+    },
+    {
+      "fields": {
+        "agency": "Commerce Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23803",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Foreign-Trade Zone (FTZ) 102; Authorization of Production Activity; BASF Agricultural Solutions US LLC; (Agricultural Fungicide and Herbicide Products); Fenton and Palmyra, Missouri",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23803/foreign-trade-zone-ftz-102-authorization-of-production-activity-basf-agricultural-solutions-us-llc"
+      },
+      "key": "fr-2026-23803"
+    },
+    {
+      "fields": {
+        "agency": "Commerce Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23804",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Foreign-Trade Zone (FTZ) 21; Authorization of Production Activity; Zapp Precision Wire, Inc.; (Precision Wire and Metal Products); Summerville, South Carolina",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23804/foreign-trade-zone-ftz-21-authorization-of-production-activity-zapp-precision-wire-inc-precision"
+      },
+      "key": "fr-2026-23804"
+    },
+    {
+      "fields": {
+        "agency": "Commerce Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23805",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Foreign-Trade Zone (FTZ) 204, Notification of Proposed Production Activity; Primester GP; (Nonplasticized Cellulose Acetate Flakes); Kingsport, Tennessee",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23805/foreign-trade-zone-ftz-204-notification-of-proposed-production-activity-primester-gp-nonplasticized"
+      },
+      "key": "fr-2026-23805"
+    },
+    {
+      "fields": {
+        "agency": "Commerce Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23806",
+        "pages": "3",
+        "publicationDate": "2026-11-23",
+        "title": "Foreign-Trade Zone (FTZ) 19, Notification of Proposed Production Activity; CLAAS Omaha, Inc.; (Combine Harvesters and Adapters); Omaha, Nebraska",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23806/foreign-trade-zone-ftz-19-notification-of-proposed-production-activity-claas-omaha-inc-combine"
+      },
+      "key": "fr-2026-23806"
+    },
+    {
+      "fields": {
+        "agency": "Commerce Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23807",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Foreign-Trade Zone (FTZ) 7, Notification of Proposed Production Activity; Hindustan Platinum Puerto Rico; (Electrical Contacts); Humacao, Puerto Rico",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23807/foreign-trade-zone-ftz-7-notification-of-proposed-production-activity-hindustan-platinum-puerto-rico"
+      },
+      "key": "fr-2026-23807"
+    },
+    {
+      "fields": {
+        "agency": "Commerce Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23808",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Foreign-Trade Zone 18; Application for Subzone Expansion; Energy Recovery, Inc.; Tracy, California",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23808/foreign-trade-zone-18-application-for-subzone-expansion-energy-recovery-inc-tracy-california"
+      },
+      "key": "fr-2026-23808"
+    },
+    {
+      "fields": {
+        "agency": "Justice Department",
+        "agencyCount": "1",
+        "documentNumber": "2026-23809",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Notice of Lodging of Proposed Stipulation of Settlement Under the Clean Water Act",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23809/notice-of-lodging-of-proposed-stipulation-of-settlement-under-the-clean-water-act"
+      },
+      "key": "fr-2026-23809"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "International Trade Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23810",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Magnesia Carbon Bricks From China and Mexico; Scheduling of Expedited Five-Year Reviews",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23810/magnesia-carbon-bricks-from-china-and-mexico-scheduling-of-expedited-five-year-reviews"
+      },
+      "key": "fr-2026-23810"
+    },
+    {
+      "fields": {
+        "action": "Notice of information collection, request for comment.",
+        "agency": "Commerce Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-01-22",
+        "documentNumber": "2026-23811",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Generic Clearance for Economic Surveys of the Commercial and Charter Fishing Sectors of U.S. Marine Fisheries",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23811/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      },
+      "key": "fr-2026-23811"
+    },
+    {
+      "fields": {
+        "action": "Proposed rule.",
+        "agency": "Federal Communications Commission",
+        "agencyCount": "1",
+        "commentsCloseOn": "2027-01-07",
+        "documentNumber": "2026-23812",
+        "effectiveOn": "2026-12-23",
+        "pages": "20",
+        "publicationDate": "2026-11-23",
+        "title": "Cybersecurity Labeling for Internet of Things",
+        "type": "Proposed Rule",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23812/cybersecurity-labeling-for-internet-of-things"
+      },
+      "key": "fr-2026-23812"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "International Trade Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23813",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Certain Transformers and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination Granting Joint Motion To Terminate the Investigation Based on Settlement; Termination of the Investigation in Its Entirety",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23813/certain-transformers-and-components-thereof-notice-of-a-commission-determination-not-to-review-an"
+      },
+      "key": "fr-2026-23813"
+    },
+    {
+      "fields": {
+        "action": "Notice of public meeting.",
+        "agency": "Consumer Financial Protection Bureau",
+        "agencyCount": "1",
+        "documentNumber": "2026-23814",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Consumer Advisory Board Meeting",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23814/consumer-advisory-board-meeting"
+      },
+      "key": "fr-2026-23814"
+    },
+    {
+      "fields": {
+        "action": "Notice of public meeting.",
+        "agency": "Consumer Financial Protection Bureau",
+        "agencyCount": "1",
+        "documentNumber": "2026-23815",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Consumer Advisory Board Meeting",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23815/consumer-advisory-board-meeting"
+      },
+      "key": "fr-2026-23815"
+    },
+    {
+      "fields": {
+        "action": "Notice.",
+        "agency": "International Trade Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23816",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23816/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest"
+      },
+      "key": "fr-2026-23816"
+    },
+    {
+      "fields": {
+        "agency": "State Department",
+        "agencyCount": "1",
+        "documentNumber": "2026-23817",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Notice of Public Meeting To Prepare for International Maritime Organization MSC 111 Session",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23817/notice-of-public-meeting-to-prepare-for-international-maritime-organization-msc-111-session"
+      },
+      "key": "fr-2026-23817"
+    },
+    {
+      "fields": {
+        "action": "Final rule; extension of postponement of regulations.",
+        "agency": "Agriculture Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23818",
+        "effectiveOn": "2025-02-01",
+        "pages": "3",
+        "publicationDate": "2026-11-23",
+        "title": "Horse Protection Amendments; Extension of Postponement of Regulations",
+        "type": "Rule",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23818/horse-protection-amendments-extension-of-postponement-of-regulations"
+      },
+      "key": "fr-2026-23818"
+    },
+    {
+      "fields": {
+        "agency": "Nuclear Regulatory Commission",
+        "agencyCount": "1",
+        "documentNumber": "2026-23819",
+        "pages": "1",
+        "publicationDate": "2026-11-23",
+        "title": "Sunshine Act Meetings",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23819/sunshine-act-meetings"
+      },
+      "key": "fr-2026-23819"
+    },
+    {
+      "fields": {
+        "action": "Notice of proposed rulemaking (NPRM).",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-01-07",
+        "documentNumber": "2026-23824",
+        "pages": "3",
+        "publicationDate": "2026-11-23",
+        "title": "Amendment of Class D and E Airspace and Removal of Class E Airspace Over Lebanon, NH",
+        "type": "Proposed Rule",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23824/amendment-of-class-d-and-e-airspace-and-removal-of-class-e-airspace-over-lebanon-nh"
+      },
+      "key": "fr-2026-23824"
+    },
+    {
+      "fields": {
+        "action": "Proposed rule.",
+        "agency": "Federal Communications Commission",
+        "agencyCount": "1",
+        "commentsCloseOn": "2027-01-22",
+        "documentNumber": "2026-23830",
+        "effectiveOn": "2026-12-23",
+        "pages": "9",
+        "publicationDate": "2026-11-23",
+        "title": "Connect America Fund; A National Broadband Plan for Our Future High-Cost Universal Support, Reforming the High-Cost Program for an All-IP Future, Safeguarding Universal Service Funding Through Effective Applicant Vetting",
+        "type": "Proposed Rule",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23830/connect-america-fund-a-national-broadband-plan-for-our-future-high-cost-universal-support-reforming"
+      },
+      "key": "fr-2026-23830"
+    },
+    {
+      "fields": {
+        "action": "Final rule.",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "documentNumber": "2026-23836",
+        "effectiveOn": "2027-02-18",
+        "pages": "3",
+        "publicationDate": "2026-11-23",
+        "title": "Amendment of Class E Airspace; Del Rio, TX",
+        "type": "Rule",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23836/amendment-of-class-e-airspace-del-rio-tx"
+      },
+      "key": "fr-2026-23836"
+    },
+    {
+      "fields": {
+        "action": "Notice of proposed rulemaking (NPRM).",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-01-07",
+        "documentNumber": "2026-23838",
+        "pages": "2",
+        "publicationDate": "2026-11-23",
+        "title": "Establishment of Class E Airspace; Columbus, TX",
+        "type": "Proposed Rule",
+        "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23838/establishment-of-class-e-airspace-columbus-tx"
+      },
+      "key": "fr-2026-23838"
+    }
+  ],
+  "changed": [],
+  "date": "2026-11-21",
+  "expired": [
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22125"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22126"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22128"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22129"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22130"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22131"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22132"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22133"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22134"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22135"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22136"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22137"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22139"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22140"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22141"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22142"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22143"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22144"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22145"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22146"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22147"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22148"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22149"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22150"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22151"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22152"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22153"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22154"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22155"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22156"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22157"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22158"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22159"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22160"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22161"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22163"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22164"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22165"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22167"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22168"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22169"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22170"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22171"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22172"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22173"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22174"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22175"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22176"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22177"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22179"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22180"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22181"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22182"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22183"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22184"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22185"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22187"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22188"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22189"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22190"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22191"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22192"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22193"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22194"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22195"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22196"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22197"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22198"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22199"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22200"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22201"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22202"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22203"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22204"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22205"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22207"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22208"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22209"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22210"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22211"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22212"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22213"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22214"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22215"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22216"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22217"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22218"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22219"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22220"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22222"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22223"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22224"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22225"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22226"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22227"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22228"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22229"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22230"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22231"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22232"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22233"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22234"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22235"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22236"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22237"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22238"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22239"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22240"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22241"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22242"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22243"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22244"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22245"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22249"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22252"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22253"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22254"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22269"
+    },
+    {
+      "eventDate": "2026-10-30",
+      "key": "fr-2026-22292"
+    }
+  ],
+  "from": {
+    "recordCount": 1557,
+    "sha256": "410f3d62c7ce437c4969a391c54ec07e5389b05f654f9d80219916b9963964b1",
+    "takenAt": "2026-11-20T21:12:18Z"
+  },
+  "ignoredFields": [
+    "url"
+  ],
+  "removed": [],
+  "source": "federal-register",
+  "stats": {
+    "added": 91,
+    "changed": 0,
+    "expired": 119,
+    "fieldChanges": 0,
+    "recordsAfter": 1529,
+    "recordsBefore": 1557,
+    "removed": 0,
+    "unchanged": 1438
+  },
+  "to": {
+    "recordCount": 1529,
+    "sha256": "93bc76755433b46905870c99030a7a8efbc716612b7aa51c32d6f9522882dc6b",
+    "takenAt": "2026-11-21T20:08:24Z"
+  },
+  "window": {
+    "from": "2026-10-31",
+    "to": "2026-11-21"
+  }
+}
