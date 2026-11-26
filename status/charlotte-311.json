@@ -1,6 +1,6 @@
 {
-  "attemptedAt": "2026-11-25T22:36:10Z",
-  "date": "2026-11-25",
+  "attemptedAt": "2026-11-26T22:24:00Z",
+  "date": "2026-11-26",
   "id": "charlotte-311",
   "lastSuccessAt": "2026-11-24T23:03:21Z",
   "lastSuccessDate": "2026-11-24",
@@ -9,13 +9,13 @@
   "notes": [
     "the publisher does not support conditional requests for this layer, so the full window is downloaded each run"
   ],
-  "reason": "50% of records changed at once (limit 35%)",
+  "reason": "59% of records changed at once (limit 35%)",
   "recordCount": 9030,
-  "rejectedRecordCount": 12763,
+  "rejectedRecordCount": 12839,
   "result": "quarantined",
   "sourceUrl": "https://data.charlottenc.gov/datasets/service-requests-311",
   "title": "Charlotte 311 service requests",
   "windowDays": 14,
-  "windowFrom": "2026-11-11",
-  "windowTo": "2026-11-25"
+  "windowFrom": "2026-11-12",
+  "windowTo": "2026-11-26"
 }
