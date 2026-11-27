@@ -1,0 +1,526 @@
+{
+  "added": [],
+  "changed": [
+    {
+      "changes": [
+        {
+          "from": "2026-12-03",
+          "name": "commentsCloseOn",
+          "to": "2026-12-02"
+        }
+      ],
+      "fields": {
+        "action": "Notice; correction.",
+        "agency": "Environmental Protection Agency",
+        "agencyCount": "1",
+        "commentsCloseOn": "2026-12-02",
+        "documentNumber": "2026-24037",
+        "pages": "1",
+        "publicationDate": "2026-11-27",
+        "title": "U.S. Environmental Protection Agency (EPA) Contractor and Subcontractor Access to Confidential Business Information (CBI) Submitted Under Clean Air Act (CAA), Act To Prevent Pollution From Ships (APPS), and American Innovation and Manufacturing Act (AIM); Correction",
+        "type": "Notice",
+        "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24037/us-environmental-protection-agency-epa-contractor-and-subcontractor-access-to-confidential-business"
+      },
+      "key": "fr-2026-24037"
+    },
+    {
+      "changes": [
+        {
+          "from": null,
+          "name": "commentsCloseOn",
+          "to": "2027-01-11"
+        }
+      ],
+      "fields": {
+        "action": "Final rule; request for comments.",
+        "agency": "Transportation Department",
+        "agencyCount": "2",
+        "commentsCloseOn": "2027-01-11",
+        "documentNumber": "2026-24137",
+        "effectiveOn": "2026-12-14",
+        "pages": "3",
+        "publicationDate": "2026-11-27",
+        "title": "Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes",
+        "type": "Rule",
+        "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24137/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c"
+      },
+      "key": "fr-2026-24137"
+    }
+  ],
+  "date": "2026-11-27",
+  "expired": [
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22540"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22541"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22542"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22543"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22544"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22545"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22546"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22547"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22548"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22549"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22550"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22551"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22552"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22553"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22554"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22555"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22556"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22557"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22558"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22559"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22560"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22561"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22562"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22563"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22564"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22565"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22566"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22567"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22568"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22569"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22570"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22571"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22572"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22573"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22574"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22576"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22577"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22578"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22579"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22580"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22581"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22582"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22583"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22584"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22585"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22586"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22587"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22588"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22589"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22590"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22591"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22592"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22593"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22594"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22595"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22596"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22597"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22598"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22599"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22600"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22601"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22602"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22603"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22604"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22605"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22606"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22607"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22608"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22609"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22610"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22611"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22612"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22613"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22614"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22615"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22616"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22617"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22618"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22619"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22620"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22621"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22622"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22623"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22624"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22625"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22626"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22627"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22628"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22629"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22630"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22631"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22632"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22633"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22634"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22635"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22636"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22637"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22638"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22639"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22640"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22641"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22642"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22643"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22644"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22647"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22649"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22650"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22685"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22686"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22687"
+    },
+    {
+      "eventDate": "2026-11-05",
+      "key": "fr-2026-22688"
+    }
+  ],
+  "from": {
+    "recordCount": 1585,
+    "sha256": "a61cb496947f49a90fc907ad2414b17984e77307c981d09bc0c3a3777202dd12",
+    "takenAt": "2026-11-26T22:24:00Z"
+  },
+  "ignoredFields": [
+    "url"
+  ],
+  "removed": [],
+  "source": "federal-register",
+  "stats": {
+    "added": 0,
+    "changed": 2,
+    "expired": 111,
+    "fieldChanges": 2,
+    "recordsAfter": 1474,
+    "recordsBefore": 1585,
+    "removed": 0,
+    "unchanged": 1472
+  },
+  "to": {
+    "recordCount": 1474,
+    "sha256": "810a323947013bce04e2bc72a126c093a5665ea352a592221b40196e02a9f8b9",
+    "takenAt": "2026-11-27T22:02:08Z"
+  },
+  "window": {
+    "from": "2026-11-06",
+    "to": "2026-11-27"
+  }
+}
